@@ -1,0 +1,13 @@
+C:\Users\burcu\Desktop\Odevler\C#\WFA_MetotlarHW\WFA_MetotlarHW\bin\Debug\WFA_MetotlarHW.exe.config
+C:\Users\burcu\Desktop\Odevler\C#\WFA_MetotlarHW\WFA_MetotlarHW\bin\Debug\WFA_MetotlarHW.exe
+C:\Users\burcu\Desktop\Odevler\C#\WFA_MetotlarHW\WFA_MetotlarHW\bin\Debug\WFA_MetotlarHW.pdb
+C:\Users\burcu\Desktop\Odevler\C#\WFA_MetotlarHW\WFA_MetotlarHW\obj\Debug\WFA_MetotlarHW.csproj.AssemblyReference.cache
+C:\Users\burcu\Desktop\Odevler\C#\WFA_MetotlarHW\WFA_MetotlarHW\obj\Debug\WFA_MetotlarHW.Form1.resources
+C:\Users\burcu\Desktop\Odevler\C#\WFA_MetotlarHW\WFA_MetotlarHW\obj\Debug\WFA_MetotlarHW.Properties.Resources.resources
+C:\Users\burcu\Desktop\Odevler\C#\WFA_MetotlarHW\WFA_MetotlarHW\obj\Debug\WFA_MetotlarHW.csproj.GenerateResource.cache
+C:\Users\burcu\Desktop\Odevler\C#\WFA_MetotlarHW\WFA_MetotlarHW\obj\Debug\WFA_MetotlarHW.csproj.CoreCompileInputs.cache
+C:\Users\burcu\Desktop\Odevler\C#\WFA_MetotlarHW\WFA_MetotlarHW\obj\Debug\WFA_MetotlarHW.exe
+C:\Users\burcu\Desktop\Odevler\C#\WFA_MetotlarHW\WFA_MetotlarHW\obj\Debug\WFA_MetotlarHW.pdb
+C:\Users\burcu\Desktop\Odevler\C#\WFA_MetotlarHW\WFA_MetotlarHW\obj\Debug\WFA_MetotlarHW.Form2.resources
+C:\Users\burcu\Desktop\Odevler\C#\WFA_MetotlarHW\WFA_MetotlarHW\obj\Debug\WFA_MetotlarHW.Form3.resources
+C:\Users\burcu\Desktop\Odevler\C#\WFA_MetotlarHW\WFA_MetotlarHW\obj\Debug\WFA_MetotlarHW.Form4.resources
